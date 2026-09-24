@@ -1,5 +1,10 @@
 # The Backrooms: Math Levels — Survival Doors Edition
 
+[![CI + Playwright](https://github.com/iamrichmack111/backrooms-math-levels/actions/workflows/ci.yml/badge.svg)](https://github.com/iamrichmack111/backrooms-math-levels/actions/workflows/ci.yml)
+![Playwright](https://img.shields.io/badge/tested%20with-Playwright-2EAD33?logo=playwright)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES202x-F7DF1E?logo=javascript&logoColor=000)
+![Latest Tag](https://img.shields.io/github/v/tag/iamrichmack111/backrooms-math-levels?label=version)
+
 ## Screenshots
 
 ### Gameplay
@@ -153,3 +158,15 @@ Then open:
 ```text
 http://127.0.0.1:8100
 ```
+
+## Playwright Screenshots
+
+### Landing
+![Backrooms Math Levels landing screen](screenshots/01-landing.png)
+
+### Gameplay
+![Backrooms Math Levels gameplay](screenshots/02-gameplay.png)
+
+### Level / Challenge
+![Backrooms Math Levels level](screenshots/03-level.png)
+

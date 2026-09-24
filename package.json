@@ -1,0 +1,13 @@
+{
+  "name": "backrooms-math-levels",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test",
+    "test:e2e": "playwright test",
+    "screenshots": "playwright test tests/screenshots.spec.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
